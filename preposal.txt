@@ -1,0 +1,13 @@
+# Preproposal
+
+## What idea(s) do you have for your final project?
+
+Discord bot that moderates a server and removes messages that are inappropriate as well as time people out
+
+## If you plan to collaborate with one or two classmates, what are their names?
+
+No one
+
+## Do you have any questions of your own?
+
+None
